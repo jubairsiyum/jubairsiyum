@@ -1,4 +1,15 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<div align="center">
+
+# 👋 Hi, I'm Jubair Amin Siyum  
+
+<p align="justify">
+A <b>full-stack web developer</b> passionate about building <b>scalable applications</b>, <b>custom dashboards</b>, and <b>modern web solutions</b> with a clean, minimal approach. Skilled in <b>Laravel</b>, <b>Vue.js</b>, <b>Blade templating</b>, <b>PHP</b>, <b>MySQL</b>, <b>WordPress</b>, and <b>Elementor</b>, I focus on delivering seamless digital experiences that blend performance, design, and functionality.
+</p>
+
+---
+
+</div>
+
 
 ###
 
